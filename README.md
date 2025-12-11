@@ -2,7 +2,7 @@
 
 - 🧑‍🏫 I'm an educator with a special interest in educational technologies.
 - 🧰 I like making tools for teachers based on things I find useful in the classroom.
-- 🌐 My current project is an online whiteboard with teacher tools that educators can lose during their lessons.
+- 🌐 My current project is an online whiteboard with teacher tools that educators can use during their lessons.
      
 <!--
 **RichardViskovic/RichardViskovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
